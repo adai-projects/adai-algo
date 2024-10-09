@@ -1,1 +1,1 @@
-# adai-algo
+# adaiadai
